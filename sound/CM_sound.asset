@@ -1,0 +1,153 @@
+sound =
+{
+	name = "event_CM_kiss"
+	file = "event/event_CM_kiss.wav"
+	volume = 1.00
+
+}
+sound =
+{
+	name = "event_CM_happy01"
+	file = "event/event_CM_happy01.wav"
+	volume = 1.00
+}
+
+sound =
+{
+	name = "event_CM_happy02"
+	file = "event/event_CM_happy01.wav"
+	volume = 1.00
+}
+
+sound =
+{
+	name = "event_CM_happy03"
+	file = "event/event_CM_happy01.wav"
+	volume = 1.00
+}
+
+sound =
+{
+	name = "event_CM_excited01"
+	file = "event/event_CM_excited01.wav"
+	volume = 1.00
+}
+
+sound =
+{
+	name = "event_CM_excited02"
+	file = "event/event_CM_excited02.wav"
+	volume = 1.00
+}
+
+sound =
+{
+	name = "event_CM_excited03"
+	file = "event/event_CM_excited03.wav"
+	volume = 1.00
+}
+
+sound =
+{
+	name = "event_CM_fear01"
+	file = "event/event_CM_fear01.wav"
+	volume = 1.00
+}
+
+sound =
+{
+	name = "event_CM_fear02"
+	file = "event/event_CM_fear02.wav"
+	volume = 1.00
+}
+
+sound =
+{
+	name = "event_CM_fear03"
+	file = "event/event_CM_fear03.wav"
+	volume = 1.00
+}
+
+sound =
+{
+	name = "event_CM_death01"
+	file = "event/event_CM_death01.wav"
+	volume = 1.00
+}
+
+sound =
+{
+	name = "event_CM_death02"
+	file = "event/event_CM_death02.wav"
+	volume = 1.00
+}
+
+sound =
+{
+	name = "event_CM_death03"
+	file = "event/event_CM_death03.wav"
+	volume = 1.00
+}
+
+sound =
+{
+	name = "event_CG_moan01"
+	file = "event/event_CG_moan01.wav"
+	volume = 1.00
+}
+
+sound =
+{
+	name = "event_CG_moan02"
+	file = "event/event_CG_moan02.wav"
+	volume = 1.0
+}
+
+sound =
+{
+	name = "event_CG_moan03"
+	file = "event/event_CG_moan03.wav"
+	volume = 1.0
+}
+
+sound =
+{
+	name = "event_CG_refuse01"
+	file = "event/event_CG_refuse01.wav"
+	volume = 1.0
+}
+
+sound =
+{
+	name = "event_CG_other01"
+	file = "event/event_CG_other01.wav"
+	volume = 1.0
+}
+
+sound =
+{
+	name = "event_CG_warning01"
+	file = "event/event_CG_warning01.wav"
+	volume = 1.0
+}
+
+sound =
+{
+	name = "CG_yamete01"
+	file = "event/CG_yamete01.wav"
+	volume = 1.0
+}
+
+sound =
+{
+	name = "CG_yamete02"
+	file = "event/CG_yamete02.wav"
+	volume = 1.0
+}
+
+sound =
+{
+	name = "CG_yamete03"
+	file = "event/CG_yamete03.wav"
+	volume = 1.0
+}

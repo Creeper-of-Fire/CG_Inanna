@@ -1,0 +1,72 @@
+﻿succubus01={
+	name="succubus01"
+	adjective="纵欲的"
+	spawn_enabled = always
+	ignore_portrait_duplication=yes
+	
+	ship_prefix="欲望"
+	
+	species = {
+		class = "INANNA"
+		portrait = "YM"
+		name = "魅魔"
+		plural = "魅魔们"
+		adjective = "妖艳的"
+		name_list = "SUC1"
+		trait="trait_coquettish"
+        trait="trait_forever_naughty"
+        trait="trait_like_nudity"
+		trait="trait_ephemeral"
+	}
+	
+	room="SM_personality_slaving_despots_room"
+	origin = "origin_love_juice_everywhere"
+	authority="auth_imperial"
+	civics={ "civic_abyssal_ascendancy" "civic_fanatic_feminism" }
+	government="gov_despotic_empire"
+	
+	ethic="ethic_carnalism"
+	ethic="ethic_authoritarian"
+	ethic="ethic_militarist"
+	
+	planet_name="淫蜜之珠"
+	planet_class="pc_inanna"
+	initializer=""
+	system_name="温热花房"
+	
+	graphical_culture="plantoid_01"
+	city_graphical_culture="mammalian_01"
+	
+	empire_flag={
+		icon={
+			category="succubus"
+			file="flag_succubus_16.dds"
+		}
+		background={
+			category="backgrounds"
+			file="stripes.dds"
+		}
+		colors={
+			"beige"
+			"red"
+			"null"
+			"null"
+		}
+	}
+	
+	ruler={
+		gender=female
+		name="雅玛拉 美坎修特"
+		portrait="SWA1055"
+		texture=0
+		hair=0
+		clothes=0
+		ruler_title="女王"
+		ruler_title_female="女王"
+		heir_title = "公主"
+		heir_title_female = "公主"
+		leader_class = ruler
+	}
+	
+    spawn_as_fallen=no
+}

@@ -1,0 +1,41 @@
+#沉沦者——内部代号为“伊南娜”（INANNA）
+INANNA = {
+	archetype = INANNA
+	randomized = yes
+	possible = {
+		authority = {
+			NOT = {
+				value = auth_machine_intelligence
+				text = SPECIES_CLASS_MUST_NOT_USE_MACHINE_INTELLIGENCE
+			}
+		}
+	 }
+	
+	portraits = {
+		"SUC"
+		"YM"
+		"RBQ"
+		"SWA"
+		"TONY"
+	}
+	
+	leader_age_min = 10
+	leader_age_max = 18
+
+	resources = {
+		category = planet_pops
+		produces = {
+			love_juice = 0.1
+		}
+		produces = {
+			love_juice = 0.3
+			trigger = {
+				has_technology = tech_CG_inanna_love_energy_collection
+			}
+		}
+	}
+
+	graphical_culture = leching_beautys_01
+	move_pop_sound_effect = "moving_pop_confirmation"
+
+}

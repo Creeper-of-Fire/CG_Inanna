@@ -1,0 +1,30 @@
+ethic_categories = {
+	car = {}
+}
+
+ethic_CG_inanna = {
+	cost = 5
+	category = "car"
+	category_value = 0
+
+	use_for_pops = no
+
+	regular_variant = ethic_carnalism
+
+	country_modifier = {
+		pop_happiness = 0.05 #幸福度
+		pop_growth_speed = 0.2 #人口增长速度
+		all_technology_research_speed = -0.1 #研究速度
+	}
+
+	tags = {
+		ETHIC_ALLOWS_STRATIFIED_SOCIETY
+		ETHIC_ALLOWS_SLAVERY
+		ETHIC_NEVER_DEMOCRACY
+		ETHIC_ALLOWS_FULL_NATIVE_TAMPERING
+	}
+
+	random_weight = {
+		value = 0
+	}
+}

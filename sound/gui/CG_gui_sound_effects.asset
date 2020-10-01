@@ -1,0 +1,224 @@
+
+
+######## EVENT SFX
+
+
+soundeffect = {
+	name = event_CM_kiss
+	sounds = {
+		sound = event_CM_kiss
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CM_happy01
+	sounds = {
+		sound = event_CM_happy01
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CM_happy02
+	sounds = {
+		sound = event_CM_happy02
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CM_happy03
+	sounds = {
+		sound = event_CM_happy03
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CM_excited01
+	sounds = {
+		sound = event_CM_excited01
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CM_excited02
+	sounds = {
+		sound = event_CM_excited02
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CM_excited03
+	sounds = {
+		sound = event_CM_excited03
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CM_fear01
+	sounds = {
+		sound = event_CM_fear01
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CM_fear02
+	sounds = {
+		sound = event_CM_fear02
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CM_fear03
+	sounds = {
+		sound = event_CM_fear03
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CM_death01
+	sounds = {
+		sound = event_CM_death01
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CM_death02
+	sounds = {
+		sound = event_CM_death02
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CM_death03
+	sounds = {
+		sound = event_CM_death03
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CG_moan01
+	sounds = {
+		sound = event_CG_moan01
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CG_moan02
+	sounds = {
+		sound = event_CG_moan02
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CG_moan03
+	sounds = {
+		sound = event_CG_moan03
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CG_refuse01
+	sounds = {
+		sound = event_CG_refuse01
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CG_other01
+	sounds = {
+		sound = event_CG_other01
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = event_CG_warning01
+	sounds = {
+		sound = event_CG_warning01
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = CG_yamete01
+	sounds = {
+		sound = CG_yamete01
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = CG_yamete02
+	sounds = {
+		sound = CG_yamete02
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}
+
+soundeffect = {
+	name = CG_yamete03
+	sounds = {
+		sound = CG_yamete03
+	}  
+	volume = 0.7
+	max_audible = 1
+	max_audible_behaviour = fail	
+}

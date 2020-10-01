@@ -1,0 +1,45 @@
+
+################## Weapon #############################
+
+
+################## EFFECTS ########################
+
+category = {
+ name = "CM_Effects"
+ soundeffects = {
+	event_CM_kiss
+	event_CM_happy01
+	event_CM_happy02
+	event_CM_happy03
+	event_CM_excited01
+	event_CM_excited02
+	event_CM_excited03
+	event_CM_fear01
+	event_CM_fear02
+	event_CM_fear03
+	event_CM_death01
+	event_CM_death02
+	event_CM_death03
+	event_CG_moan01
+	event_CG_moan02
+	event_CG_moan03
+	event_CG_refuse01
+	event_CG_other01
+	event_CG_warning01
+	CG_yamete01
+	CG_yamete02
+	CG_yamete03
+ }
+ 
+ compressor = 
+ {
+ enabled = yes
+ pregain = 2.0
+ postgain = 1.5
+ ratio = 10.0
+ threshold = -8.0
+ attacktime = 0.30
+ releasetime = 0.020
+ }
+}
+ 

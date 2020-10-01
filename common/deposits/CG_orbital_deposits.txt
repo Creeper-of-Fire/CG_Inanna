@@ -1,0 +1,27 @@
+d_CG_inanna_princess = {
+	is_for_colonizeable = yes
+	category = deposit_cat_rare
+	
+	icon = d_building
+
+	planet_modifier = {
+		job_lust_roboticist_add = 3
+	}
+	drop_weight = {
+		weight = 0
+	}
+}
+
+d_CG_inanna_cirminal = {
+	is_for_colonizeable = yes
+	category = deposit_cat_rare
+	
+	icon = d_building
+
+	planet_modifier = {
+		job_lust_roboticist_add = 3
+	}
+	drop_weight = {
+		weight = 0
+	}
+}
